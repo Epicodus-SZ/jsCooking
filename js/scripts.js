@@ -5,3 +5,5 @@ var gals2Liters = function(gallons) {
 var cups2FlOz = function(cups) {
   return cups * 8;
 }
+
+alert(gals2Liters(2));
